@@ -14,3 +14,6 @@
 - 間違えた問題だけをやり直す「復習モード」つき。
 
 ▶ 遊ぶ: https://inakichi1744.github.io/09_g5_heian_quiz/
+
+## 画像出典
+画像はWikimedia Commonsより（平等院鳳凰堂・厳島神社＝CC0、平清盛像＝パブリックドメイン）。
